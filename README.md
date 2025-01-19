@@ -5,4 +5,4 @@
      ii)	List of users who have recently logged in
      iii)	Present working directory
      iv)	Exit
-      (file name menu.sh)
+      (file name Menu.sh)
